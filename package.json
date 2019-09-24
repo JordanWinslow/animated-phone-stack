@@ -1,0 +1,32 @@
+{
+  "name": "stacked-phones-react-component",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1",
+    "react-spring": "^8.0.27",
+    "react-use-gesture": "^5.2.4",
+    "styled-components": "^4.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": ["mockup", "component", "phone", "portfolio", "react"],
+  "description": "This React component can be inserted into any website to create a perfect \nshowcase of your mobile designs for the user to interact with."
+}
