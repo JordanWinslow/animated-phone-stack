@@ -1,5 +1,5 @@
 # Animated Phone Stack for Displaying Mockups of Mobile Websites on Your Portfolio
-[![animated-phone-stack.png](https://i.postimg.cc/wxy0q913/animated-phone-stack.png)](https://postimg.cc/grpv4FqP)
+[![animated-phone-stack.png](https://i.postimg.cc/wxy0q913/animated-phone-stack.png)](https://animated-phone-stack.netlify.com/)
 
 This React component can be inserted into any website to create a perfect showcase of your mobile designs for the user to interact with.
 
